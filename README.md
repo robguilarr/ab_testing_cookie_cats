@@ -1,7 +1,7 @@
 # Tactical Analytics AB Testing with Cookie Cats Game
 A/B testing Project for Cookie Cats Mobile Game
 
-This repository contains a project also published at [my website](https://www.robguilar.com/posts/evga/ "Visit personal website")
+This repository contains a project also published at [my website](https://www.robguilar.com/posts/ab_testing_cookiecats/ "Visit personal website")
 
 
 <p align="center">
