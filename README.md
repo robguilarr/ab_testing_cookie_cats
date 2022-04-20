@@ -1,5 +1,5 @@
 # AB Testing with Cookie Cats Game
-Using Tactical Analytics for A/B testing Project on Cookie Cats Mobile Game
+Using Tactical Analytics for A/B testing Project with Cookie Cats Mobile Game
 
 This repository contains a project also published at [my website](https://www.robguilar.com/posts/ab_testing_cookiecats/ "Visit personal website")
 
